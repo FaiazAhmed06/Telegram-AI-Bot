@@ -20,7 +20,7 @@ EcoRush is a **Telegram AI-powered earning game** where you tap to clean, earn E
 
 ## 📸 Screenshots  
 
-All screenshots should be stored inside a folder named **`/screenshots`** before pushing to GitHub.  
+Some screenshots  
 
 ### Welcome & Core Gameplay  
 ![Welcome Screen](./screenshots/Screenshot%202025-09-15%20155240.png)  
@@ -45,7 +45,7 @@ All screenshots should be stored inside a folder named **`/screenshots`** before
 - **Node.js** – Backend logic  
 - **MongoDB Atlas** – User data + eco stats storage  
 - **Telegram Bot API** – Chatbot interface  
-
+- *Much more*
 ---
 
 
@@ -76,3 +76,4 @@ EcoRush isn’t just a game. It’s a **movement**. By playing, you help fund:
 
 Together, EcoHeroes can make real climate impact while earning.  
 
+Email me for more info = faazzey06@gmail.com
